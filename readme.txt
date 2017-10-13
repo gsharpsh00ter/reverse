@@ -1,3 +1,3 @@
 hello, world
 Life is hard
-second line
+s3cond line
